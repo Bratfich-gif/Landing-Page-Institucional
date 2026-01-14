@@ -7,7 +7,7 @@ Uma Landing Page moderna e responsiva desenvolvida por HTML5, CSS3 e JavaScript.
 ![Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Sobre o Projeto
-Este projeto foi criado para apresentar serviços de tecnologia de uma empresa fictícia, de forma moderna e profissional.
+Este projeto foi criado para apresentar serviços de tecnologia de uma empresa fictícia chamada Innova Tech, de forma moderna e profissional.
 
 ## Funcionalidades
 - **Design Responsivo**: Adaptável para mobile, tablet e desktop
