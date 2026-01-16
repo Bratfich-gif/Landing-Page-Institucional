@@ -72,7 +72,7 @@ Contribuições são sempre bem-vindas! Para contribuir:
 5. Abra um Pull Request
 
 ## Licença
-Este projetp está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Autor
 Thomas Muniz Bratfich
